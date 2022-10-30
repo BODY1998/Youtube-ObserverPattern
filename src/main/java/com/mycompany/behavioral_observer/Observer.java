@@ -9,5 +9,5 @@ package com.mycompany.behavioral_observer;
  * @author ayman
  */
 public interface Observer {
-    
+    public void update();
 }

@@ -8,6 +8,13 @@ package com.mycompany.behavioral_observer;
  *
  * @author ayman
  */
-public class Subscriber {
-    
+public class Subscriber implements Observer {
+
+    public void update() {
+        /*
+            GET THE VLOGGER NEW VIDEOS
+         */
+
+    }
+
 }

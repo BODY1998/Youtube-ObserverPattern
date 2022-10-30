@@ -12,6 +12,6 @@ package com.mycompany.behavioral_observer;
 public class Behavioral_Observer {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Observer Design Pattern");
     }
 }

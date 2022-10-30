@@ -8,6 +8,17 @@ package com.mycompany.behavioral_observer;
  *
  * @author ayman
  */
-public class Vlogger {
+public class Vlogger extends YoutubeChannel {
+
+    private String state;
+
+    public String getState() {
+        return state;
+    }
+
+    /*
     
+    OTHER WORK FOR THE VLOGGER
+    
+     */
 }
